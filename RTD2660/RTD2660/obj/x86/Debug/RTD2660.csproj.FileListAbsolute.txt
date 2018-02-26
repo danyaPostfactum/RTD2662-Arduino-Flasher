@@ -1,0 +1,8 @@
+C:\Users\Данил\Documents\Visual Studio 2010\Projects\RTD2660\RTD2660\bin\Debug\RTD2660.exe
+C:\Users\Данил\Documents\Visual Studio 2010\Projects\RTD2660\RTD2660\bin\Debug\RTD2660.pdb
+C:\Users\Данил\Documents\Visual Studio 2010\Projects\RTD2660\RTD2660\obj\x86\Debug\RTD2660.Form1.resources
+C:\Users\Данил\Documents\Visual Studio 2010\Projects\RTD2660\RTD2660\obj\x86\Debug\RTD2660.Properties.Resources.resources
+C:\Users\Данил\Documents\Visual Studio 2010\Projects\RTD2660\RTD2660\obj\x86\Debug\RTD2660.csproj.GenerateResource.Cache
+C:\Users\Данил\Documents\Visual Studio 2010\Projects\RTD2660\RTD2660\obj\x86\Debug\RTD2660.exe
+C:\Users\Данил\Documents\Visual Studio 2010\Projects\RTD2660\RTD2660\obj\x86\Debug\RTD2660.pdb
+C:\Users\Данил\Documents\Visual Studio 2010\Projects\RTD2660\RTD2660\obj\x86\Debug\RTD2660.csprojResolveAssemblyReference.cache
